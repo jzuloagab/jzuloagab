@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-### Welcome to my Github. It's a little empty at the momment, please come back later to see more things. Cheers!
+### Welcome to my Github. It's a little empty at the moment, please come back later to see more things. Cheers!
 
 
 <!--

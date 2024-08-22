@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! 👋
+
+### Welcome to my Github. It's a little empty at the momment, please come back later to see more things. Cheers!
+
 
 <!--
 **jzuloagab/jzuloagab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
